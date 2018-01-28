@@ -13,3 +13,5 @@ License: NSW DPI Freeware Licence
 URL: http://www.austatgen.org/files/software/downloads
 Built: R 3.2.2; x86_64-w64-mingw32; 2016-05-18 01:43:51 UTC; windows
 Archs: i386, x64
+NeedsCompilation: no
+Packaged: 2018-01-28 14:54:44 UTC; Lukas
