@@ -1,4 +1,4 @@
-useDynLib(chname="DiGGer",package="DiGGer")
+useDynLib(DiGGer, .registration = TRUE)
 
 ## Export all names
 exportPattern("^[^\\.]")
