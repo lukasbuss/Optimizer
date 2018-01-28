@@ -1,4 +1,4 @@
-useDynLib(chname="DiGGer.dll",package="DiGGer", .registration = TRUE)
+useDynLib(chname="DiGGer.dll",package="DiGGer", lib.loc = "x64")
 
 ## Export all names
 exportPattern("^[^\\.]")
